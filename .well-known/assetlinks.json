@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.zhenhui.deeplink",
+    "package_name": "com.example.link",
     "sha256_cert_fingerprints":
     ["7C:63:F9:53:F5:A3:D6:A6:0B:3E:87:E5:8F:F3:3B:98:4F:B6:7E:21:08:D7:F5:BA:08:9C:29:1F:97:BD:F9:8F"]
   }
