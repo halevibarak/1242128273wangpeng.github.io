@@ -1,5 +1,7 @@
-## Welcome to Barak Pages
+## Welcome to Barak 
 
-You can use the [editor on GitHub](https://github.com/halevibarak/555wangpeng.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [create-statement](https://developers.google.com/digital-asset-links/v1/create-statement) 
+i can choose to be happy
 
+In god we trust
 
