@@ -1,0 +1,36 @@
+[
+{
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ideomobile.hapoalim",
+      "sha256_cert_fingerprints": [
+        "43:9E:80:62:AD:7C:57:62:BA:04:C2:DA:6C:47:44:2E:13:0A:5A:D8:15:4A:67:2B:D9:DC:94:BE:A2:C1:D7:1D"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.bnhp.openapp",
+      "sha256_cert_fingerprints": [
+        "25:F6:82:05:D3:C2:6B:98:DB:6B:4F:96:28:D7:16:3F:9E:B1:D5:DE:E7:53:01:08:5D:AC:8D:A3:C1:F3:1E:12"
+      ]
+    }
+  },  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.link",
+      "sha256_cert_fingerprints": [
+        "43:9E:80:62:AD:7C:57:62:BA:04:C2:DA:6C:47:44:2E:13:0A:5A:D8:15:4A:67:2B:D9:DC:94:BE:A2:C1:D7:1D"
+      ]
+    }
+  }]
