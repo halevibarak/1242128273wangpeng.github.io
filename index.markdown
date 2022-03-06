@@ -1,6 +1,6 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+Welcome to Barak
+You can use the create-statement
 
-layout: home
----
+We can choose to be happy
+
+In god we trust
