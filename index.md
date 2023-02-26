@@ -41,3 +41,6 @@
 הכל לטובה
 
 
+<style>body {text-align: right}</style>
+
+
